@@ -1,0 +1,7 @@
+python==3.10.7 or lower **
+deepface==0.0.75
+opencv-python==4.6.0.66
+playsound==1.2.2
+
+
+
